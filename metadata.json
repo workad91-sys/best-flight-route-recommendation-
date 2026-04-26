@@ -1,0 +1,5 @@
+{
+  "name": "SkyScout - Real-Time Flight Finder",
+  "description": "Find the best flight deals with real-time search grounding for valid offers and multi-destination itineraries.",
+  "requestFramePermissions": ["geolocation"]
+}
